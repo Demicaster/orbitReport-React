@@ -16,6 +16,7 @@ const Buttons = ({ filterByType, setSat, displaySats }) => {
   </button>
   buttons.push(secondButton);
   return  (   <div>{buttons}</div>) ;
+  //this line is for pushing :)
   
 }
 
